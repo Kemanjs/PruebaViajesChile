@@ -1,7 +1,12 @@
 body {
     background-color: black;
     color: white;
+    padding: 0px;
 }
 .iconBg{
     background-color: #07caf0;
+}
+.imgCards{
+    height: 190,69;
+    width: 286px;
 }
