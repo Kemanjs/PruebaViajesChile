@@ -1,12 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
     background-color: black;
     color: white;
     padding: 0px;
+    font-family: 'Raleway', sans-serif;
 }
 .iconBg{
     background-color: #07caf0;
 }
-.imgCards{
-    height: 190,69;
-    width: 286px;
+#secondImgCard {
+    height: 190.69px;
 }
